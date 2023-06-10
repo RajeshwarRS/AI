@@ -24,7 +24,9 @@ v!> sci-hub.se
  ix> askyourpdf.com/chat
  x>  https://app.yoodli.ai/
  x!> formula.dog
- 	> find out wheather a student has passed an exam or not. the exam 		consists oft 5 tests . The 5 test marks are stored in cells A1 to A5. 	if the sum of all five test case is greater than 200 mark it as pass.
+ 	ex.find out wheather a student has passed an exam or not. the exam consists oft 5 tests .
+	The 5 test marks are stored in cells A1 to A5. 
+	If the sum of all five test case is greater than 200 mark it as pass.
  	
  x!!> signalhire.com
  		linkedin.com/
